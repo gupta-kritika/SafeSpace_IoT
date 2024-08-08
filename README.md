@@ -1,9 +1,9 @@
 
-# IoT Project: Health Monitoring System with MAX30100 and MLX90614 Sensors
+# IoT Project: Stress Detection System with MAX30100 and MLX90614 Sensors
 
 ## Project Overview
 
-This project implements a health monitoring system using the MAX30100 and MLX90614 sensors interfaced with an Arduino Uno. The system measures pulse rate, SpO2 levels, and body temperature. The data collected by the sensors is transmitted to an ESP32 WiFi module via serial communication, which then pushes the data to Firebase Realtime Database for real-time monitoring and analysis.
+This project implements a stress detection system using the MAX30100 and MLX90614 sensors interfaced with an Arduino Uno. The system measures pulse rate, SpO2 levels, and body temperature. The data collected by the sensors is transmitted to an ESP32 WiFi module via serial communication, which then pushes the data to Firebase Realtime Database for real-time monitoring and analysis.
 
 This project was created as a part of a Stress Detection and Management Application that detected stress through Image detection and classified it into four intensity levels with the help of physiological sensor data collected through IoT implementation. The application further helped users manage stress through a chatbot functionality and an NLP-based recommendation system.
 
